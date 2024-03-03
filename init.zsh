@@ -35,14 +35,13 @@ p6df::modules::p6python::init() {
 #  Args:
 #	dir -
 #
-#  Environment:	 PYTHONPATH
 #>
 ######################################################################
 p6_python_init() {
-    local dir="$1"
+  local dir="$1"
 
-    p6_path_if "$dir/bin"
-    p6_python_path_if "$dir/lib"
+  p6_path_if "$dir/bin"
+  p6_python_path_if "$dir/lib"
 
-    p6_return_void
+  p6_return_void
 }
