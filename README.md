@@ -10,8 +10,7 @@
   - [Summary](#summary)
   - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
-  - [Changes](#changes)
-    - [Usage](#usage)
+  - [Usage](#usage)
   - [Author](#author)
 
 ### Badges
@@ -34,19 +33,22 @@
 
 - [Code of Conduct](https://github.com/p6m7g8/.github/blob/master/CODE_OF_CONDUCT.md)
 
-## Changes
-
-- [Change Log](CHANGELOG.md)
-
 ## Usage
+
+
+### Aliases
+
+
+### Functions
 
 ### p6python:
 
 #### p6python/init.zsh:
 
 - p6_python_init(dir)
+- p6_python_path_if(dir)
 - p6df::modules::p6python::deps()
-- p6df::modules::p6python::init()
+- p6df::modules::p6python::init(_module, dir)
 
 
 
