@@ -42,9 +42,16 @@ TODO: Add a short summary of this module.
 ##### p6python/init.zsh
 
 - `p6_python_init(dir)`
+  - Args:
+    - dir - 
 - `p6_python_path_if(dir)`
+  - Args:
+    - dir - 
 - `p6df::modules::p6python::deps()`
 - `p6df::modules::p6python::init(_module, dir)`
+  - Args:
+    - _module - 
+    - dir - 
 
 ## Hierarchy
 
