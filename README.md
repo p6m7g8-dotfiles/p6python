@@ -43,15 +43,15 @@ TODO: Add a short summary of this module.
 
 - `p6_python_init(dir)`
   - Args:
-    - dir -
+    - dir
 - `p6_python_path_if(dir)`
   - Args:
-    - dir -
+    - dir
 - `p6df::modules::p6python::deps()`
 - `p6df::modules::p6python::init(_module, dir)`
   - Args:
-    - _module -
-    - dir -
+    - _module
+    - dir
 
 ## Hierarchy
 
